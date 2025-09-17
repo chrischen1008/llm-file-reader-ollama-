@@ -1,0 +1,5 @@
+streamlit
+ollama
+pymupdf
+opencc-python-reimplemented
+python-dotenv

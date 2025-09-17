@@ -1,0 +1,8 @@
+{
+    "python.autoComplete.extraPaths": [   
+        ["D:/llm-env02"]
+    ],
+    "python.analysis.extraPaths": [
+        "D:/llm-env02/Lib/site-packages"
+    ]//有這行才可以: F12/Ctrl+左鍵 移動至定義(Definition)
+}
