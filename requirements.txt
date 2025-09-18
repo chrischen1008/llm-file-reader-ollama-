@@ -3,3 +3,6 @@ ollama
 pymupdf
 opencc-python-reimplemented
 python-dotenv
+pandas
+python-docx
+python-pptx
